@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cabin:wght@400;700&family=Lobster&display=swap');
+
+
+body{
+    font-family: 'Cabin', sans-serif;
+    color: #373A3C;
+}
+.bold{
+    font-weight: 800;
+}
+h1{
+    padding-bottom: 2rem;
+}
+.subr{
+    border-bottom: #373A3C 2px solid;
+}
+.display-7{
+    font-size: 1.75rem;
+}
+.lobster{
+    font-family: 'Lobster', sans-serif;
+    font-size: 2rem;
+}
+.btn{
+    color: #373A3C !important;
+    border-color: #DDDDDD !important;
+}
+.mx-10{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.bg-body-gris{
+    background-color: #373A3C !important;
+    color: #FFFFFF !important;
+}
+.carousel-buttons{
+    width: 1rem !important;
+    height: 1rem !important;
+    border-radius: 100%;
+    background-color: #373A3C !important;
+}
+.carousel-indicators{
+    position: relative !important;
+}
+.bg-color-danger{
+    background-color: #DC3545;
+    color: #FFFFFF;
+}
+
+
